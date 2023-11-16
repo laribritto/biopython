@@ -1,2 +1,2 @@
-# biopython
-Manipulação de sequências de genoma mitocondrial
+# Usando o biopython para manipular sequências mitocondriais
+
